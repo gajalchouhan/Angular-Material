@@ -1,0 +1,47 @@
+button {
+  margin-right: 3rem;
+}
+
+.navbar {
+  justify-content: space-between;
+}
+
+span {
+  padding-right: 1rem;
+}
+
+mat-sidenav-container {
+  height: 100%;
+}
+
+mat-sidenav,
+mat-sidenav-content {
+  padding: 16px;
+}
+
+mat-sidenav{
+    background-color: lightcoral;
+    width : 200px;
+}
+
+mat-grid-tile{
+    background-color: #ccc;
+    color : white;
+}
+
+table {
+  width: 100%;
+}
+
+.number{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid maroon;
+  box-shadow: border-box;
+  height : 100px;
+}
+
+.container{
+  height: 400px;
+}
